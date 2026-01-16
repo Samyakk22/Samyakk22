@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Samyak
 
-<sub>🎓 B.Tech IT Student | 💻 Full Stack Developer</sub><br>
-<sub>🚀 Passionate about building scalable web apps and improving problem-solving skills</sub><br>
-<sub>🌱 Learning and exploring modern web technologies</sub>
+🎓 B.Tech IT Student | 💻 Full Stack Developer
+🚀 Passionate about building scalable web apps and improving problem-solving skills
+🌱 Learning and exploring modern web technologies
 
 ---
 
