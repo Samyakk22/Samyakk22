@@ -23,7 +23,6 @@
 **Frontend:** HTML, CSS, JavaScript, React  
 **Backend:** Node.js, Express.js, MongoDB  
 **Tools:** Git & GitHub, VS Code, Linux
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samyakk22&layout=compact&theme=radical)
 
 ---
 
