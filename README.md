@@ -26,14 +26,6 @@
 
 ---
 
-### 📌 Featured Project
-
-- **Shred Safe App** – Linux-based secure data wiping tool for safe file deletion
-
----
-
-
-
 ### 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/samyak-kamble-2040762b3/
