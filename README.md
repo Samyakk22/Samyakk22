@@ -11,7 +11,6 @@
 - 🔭 Working on **Full Stack Web Development projects**
 - 🌱 Learning **React** and strengthening **DSA**
 - 👯 Open to collaborating on **web apps & beginner-friendly open-source**
-- 🤝 Seeking guidance in **System Design & backend architecture**
 - 💬 Ask me about **C++, DSA, JavaScript, Git & GitHub**
 - ⚡ Fun fact: *I enjoy optimizing code more than writing it the first time*
 
